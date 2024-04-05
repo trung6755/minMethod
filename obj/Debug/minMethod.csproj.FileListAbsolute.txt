@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\minMethod\minMethod\bin\Debug\minMethod.exe.config
+C:\Users\Astral\source\repos\minMethod\minMethod\bin\Debug\minMethod.exe
+C:\Users\Astral\source\repos\minMethod\minMethod\bin\Debug\minMethod.pdb
+C:\Users\Astral\source\repos\minMethod\minMethod\obj\Debug\minMethod.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\minMethod\minMethod\obj\Debug\minMethod.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\minMethod\minMethod\obj\Debug\minMethod.exe
+C:\Users\Astral\source\repos\minMethod\minMethod\obj\Debug\minMethod.pdb
